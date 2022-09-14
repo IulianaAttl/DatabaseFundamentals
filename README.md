@@ -1,5 +1,6 @@
 # DatabaseProjects
 
+### Assignment.accdb
 For this assignment, I have decided to design a database management system for a music instrument manufacturing company. This company has stores in multiple locations selling instruments they manufacture. My application gives a view to the managers about their categories of instruments, the instruments themselves, stores, employees, customers, and sales. 
 
 There are five main categories of instruments. Strings, woodwind, brass, percussion, and keyboards. The user of the application can find out the materials in which each instrument is available by searching for the category.
